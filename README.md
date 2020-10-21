@@ -1,16 +1,24 @@
-### Hi there 👋
+<p align="center">
+  <img src="./git-readme.png">
+  </p>
 
-<!--
-**clementbwkim/clementbwkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## :heavy_check_mark: Personel Site
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+　:link: [Step up to IT Project](https://stepupbk.netlify.app/)<br>
+　:link: [Velog](https://velog.io/@clementbwkim)
+
+
+## :heavy_check_mark: Stack
+
+#### :memo: Skills
+
+- HTML `HTML5`
+- Experience up to ES6
+- CSS preprocessor `SCSS`
+- jQuery
+
+---
+
+![clementbwkim's github stats](https://github-readme-stats.vercel.app/api?username=clementbwkim&show_icons=true)
